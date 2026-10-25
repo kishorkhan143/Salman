@@ -1,0 +1,6 @@
+{
+  "name": "Salman Khan Birthday Celebration",
+  "description": "Interactive 3D royal birthday celebration for Salman Khan with cake, candles, fireworks, and music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
